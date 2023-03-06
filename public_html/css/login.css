@@ -1,0 +1,12 @@
+/* CSS general del login*/
+.login {
+    background: rgba(95, 94, 94, 0.801);
+    box-shadow: 0 0 5px white;
+    max-width: 800px;
+}
+
+.login__header {
+    font-variant: small-caps;
+}
+
+
